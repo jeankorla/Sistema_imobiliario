@@ -70,7 +70,7 @@
   </div>
 
 
-<!-- FAZER O PREVIEW PRA IMAGEM !!!!!!!!! -->
+<!-- FAZER O PREVIEW PRA IMAGEM !! -->
 
 
    <div class="col-md-12">
